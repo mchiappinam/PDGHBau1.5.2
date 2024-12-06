@@ -1,0 +1,11 @@
+name: PDGHBau
+main: me.kewi.PDGHBau
+version: 0.1
+author: [Kewilleen]
+website: http://devkewi.esy.es
+description: Plugin feito para o MC delicia.
+
+commands:
+  bau:
+    aliases: [chest]
+    description: Abrir o bau.

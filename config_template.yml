@@ -1,0 +1,17 @@
+﻿MySQL:
+  Ativar: true #false=SQLite, true=MySQL
+  Host: "localhost"
+  Database: "dayz_bau"
+  Usuario: "root"
+  Senha: "123"
+Bau:
+  Perms: true #ativa/desativa permissões
+  Permissao: "pdgh.vip" #permissão para comprar
+  Taxa: 5000.0 #taxa para comprar
+  Quantidade: 2 #quantidade máxima de baús que podem ser adquiridos (de 1 à 1000)
+  Sem_Permissao: "&cApenas VIPs tem acesso ao /bau"
+  GUI:
+    Tamanho: 45
+    Nome: "&3&lPDGHBau - {p}"
+  Salvo: "&a&lSeu bau &f&l{x}&a&l foi salvo com sucesso!"
+  Atualizado: "&aSeu bau &f{x}&a foi atualizado."
